@@ -1,0 +1,38 @@
+body{
+
+    background-color: black;
+}
+
+#images
+{
+    text-align: center;
+    
+}
+
+.login
+{
+    font-weight: bolder;
+    color: darkred;
+}
+
+
+#signup
+{
+    color: rgb(243, 247, 12);
+    font-weight: bolder;
+    font-size: 30px;
+    /* background-color: black; */
+}
+
+#inputflds
+{
+    color: rgb(177, 6, 6);
+    font-weight: bolder;
+    font-size: 15px;
+    /* background-color: black; */
+}
+
+.D14
+{
+size: 10px;
+}
